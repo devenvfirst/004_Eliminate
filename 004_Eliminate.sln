@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Eliminate", "004_Eliminate.csproj", "{C68B7ECC-8A76-6FC5-F7D0-939AD6C1D2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68B7ECC-8A76-6FC5-F7D0-939AD6C1D2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68B7ECC-8A76-6FC5-F7D0-939AD6C1D2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68B7ECC-8A76-6FC5-F7D0-939AD6C1D2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68B7ECC-8A76-6FC5-F7D0-939AD6C1D2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
